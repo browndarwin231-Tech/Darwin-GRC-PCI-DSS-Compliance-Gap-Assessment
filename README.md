@@ -1,9 +1,5 @@
 # Darwin-GRC-PCI-DSS-Compliance-Gap-Assessment
 
-Hands-on GRC project simulating a PCI DSS compliance gap assessment, control review, risk identification, remediation planning, and evidence tracking.
-
-# PCI DSS Compliance Gap Assessment Project
-
 ## Project Overview
 
 This project simulates a PCI DSS compliance gap assessment for a fictional e-commerce company called **CloudNova Commerce**.
