@@ -173,6 +173,17 @@ Darwin-GRC-PCI-DSS-Compliance-Gap-Assessment/
 ├── evidence_log.csv
 └── evidence/
 
+## Evidence Screenshots
+
+### PCI DSS Control Matrix
+![PCI DSS Control Matrix](evidence/pci-dss-control-matrix.png)
+
+### PCI DSS Gap Assessment
+![PCI DSS Gap Assessment](evidence/pci-dss-gap-assessment.png)
+
+### PCI DSS Risk Register
+![PCI DSS Risk Register](evidence/pci-dss-risk-register.png)
+
 ## Skills Demonstrated
 
 - PCI DSS
