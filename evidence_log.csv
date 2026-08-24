@@ -1,0 +1,16 @@
+Evidence ID,PCI DSS Requirement,Control Area,Evidence Type,Evidence Description,Evidence Received,Review Status,Reviewer Notes
+EV-001,Requirement 1,Network Security,Firewall Review,Firewall configuration and rule review documentation,Partial,Exception,Firewall exists but recurring review evidence is incomplete
+EV-002,Requirement 2,Secure Configuration,Configuration Standard,System hardening and secure configuration documentation,Yes,Accepted,Default accounts are removed and hardening standards are documented
+EV-003,Requirement 3,Protect Stored Account Data,Data Retention Policy,Cardholder data retention and deletion documentation,Partial,Exception,Retention requirements exist but review evidence is incomplete
+EV-004,Requirement 4,Protect Data in Transit,TLS Configuration,Encryption settings for payment data in transit,Yes,Accepted,Approved encryption is used for payment traffic
+EV-005,Requirement 5,Malware Protection,Endpoint Protection Report,Endpoint security coverage for critical systems,Yes,Accepted,Endpoint protection is deployed and monitored
+EV-006,Requirement 6,Secure Systems and Software,Vulnerability Report,Vulnerability scan results and remediation evidence,Partial,Exception,Some high-risk findings exceeded remediation targets
+EV-007,Requirement 7,Access Control,Access Review Report,Quarterly user access review documentation,Partial,Exception,Recurring access review evidence is incomplete
+EV-008,Requirement 8,User Identification and Authentication,MFA Configuration,MFA settings for administrator and remote access accounts,Partial,Exception,MFA is not enforced for all administrator accounts
+EV-009,Requirement 9,Physical Access,Provider Attestation,Cloud provider physical security compliance documentation,No,Exception,Physical security evidence has not been formally reviewed
+EV-010,Requirement 10,Logging and Monitoring,SIEM Evidence,Centralized logging and daily review documentation,Partial,Exception,Logging is enabled but daily review evidence is incomplete
+EV-011,Requirement 11,Security Testing,Penetration Test Report,Penetration testing and vulnerability assessment evidence,Partial,Exception,Penetration testing is not performed consistently
+EV-012,Requirement 12,Security Awareness,Training Report,Security awareness training completion records,Yes,Accepted,Recurring security awareness training is documented
+EV-013,Requirement 12,Incident Response,Incident Response Plan,Current incident response procedures,Yes,Accepted,Documented incident response plan exists
+EV-014,Requirement 12,Incident Response,Tabletop Exercise Report,Incident response testing and lessons learned,No,Exception,No recent tabletop exercise evidence was available
+EV-015,Requirement 12,Third-Party Risk,Vendor Questionnaire,Security review and approval documentation for payment providers,Partial,Exception,Vendor review exists but recurring reassessment evidence is incomplete
